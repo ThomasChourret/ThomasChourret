@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thomas Chourret<h1>
-<h3 align="center">Computer Science and Network Engineering Student</h3>
+<h1 align="center">Hi 👋, I'm Thomas Chourret<h1><h3 align="center">Computer Science and Network Engineering Student</h3>
 
 ## 📖 About Me:
 🎓 I'm currently studying **Computer Science and Network Engineering** at **[Institut National des Sciences Appliquées de Toulouse](https://www.insa-toulouse.fr/)**
