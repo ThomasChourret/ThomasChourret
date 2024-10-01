@@ -43,4 +43,3 @@
 
 ## 📚 Projects:
 - [**VBAN Buttons**](https://github.com/ThomasChourret/vban_button): A simple application to send VBAN commands to a VBAN receiver.
-
